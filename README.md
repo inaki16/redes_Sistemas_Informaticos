@@ -25,6 +25,11 @@ LA PRIMERA RED SERA: AREA DE TRABAJO DE DISEÑO DE ROPA
             -IP 192.168.1.5
             -Mascara 255.255.255.0
             -dns server 192.168.1.100
+            
+        PC3
+            -IP 192.168.1.6
+            -Mascara 255.255.255.0
+            -dns server 192.168.1.100    
         Web
             -IP 192.168.1.1
             -Mascara 255.255.255.0
