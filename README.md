@@ -7,7 +7,7 @@ ESTA EMPRESA TENDRA DISTINTAS AREAS DE TRABAJO:
     -3ºDISEÑO DE MUEBLES
     -4ºDISEÑO DE CALZADO
 
-LA PRIMERA RED SERA: AREA DE TRABAJO DE DISEÑO DE ROPA
+LA PRIMERA RED SERÁ: AREA DE TRABAJO DE DISEÑO DE ROPA
 
     La red es la 192.168.1.0/24
     Se pone un servidor Web y  un servidor DNS.
@@ -39,3 +39,21 @@ LA PRIMERA RED SERA: AREA DE TRABAJO DE DISEÑO DE ROPA
         
         EN ESTA RED ACCEDEREMOS AL LINK www.prozissl.com la cual esta asignada en el DNS SERVER
         (IMPORTANTE: ACCEDER AL LINK DESDE ALGUN ORDENADOR: PCO-PC1-PC2-PC3)
+    
+LA SEGUNDA RED SERÁ:AREA DE TRABAJO DE DISEÑO DE DISPOSITIVOS ELECTRÓNICOS
+    
+    La red será de tipo DHCP.
+    Se pone un Servidor DNS.
+    Las características de los objetos en la red son:
+    
+    PC4
+        -DHCP
+    PC5
+        -DHCP
+    PC6
+        -DHCP
+    PC7
+        -DHCP
+    
+    
+
