@@ -31,3 +31,5 @@ LA PRIMERA RED SERA: AREA DE TRABAJO DE DISEÑO DE ROPA
         DNS
             -IP 192.168.1.100
             -Mascara 255.255.255.0
+        
+        EN ESTA RED ACCEDEREMOS AL LINK www.prozissl.com la cual esta asignada en el DNS SERVER
