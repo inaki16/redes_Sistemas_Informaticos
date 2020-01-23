@@ -56,7 +56,9 @@ LA SEGUNDA RED SERÁ:AREA DE TRABAJO DE DISEÑO DE DISPOSITIVOS ELECTRÓNICOS
         -DHCP
         
     Se configura manualmente el servidor DHCP con la dirección 192.168.2.254
-    Se asume que el gateway o la puerta de enlace para la red es 192.168.2.254 y que el servidor DNS es 192.168.2.100.
+    Se asume que el gateway o la puerta de enlace para la red es 192.168.2.254 y que el servidor DNS es 192.168.2.100
     
+     EN ESTA RED ACCEDEREMOS AL LINK 192.168.2.254 la cual esta asignada en el DNS SERVER
+        (IMPORTANTE: ACCEDER AL LINK DESDE ALGUN ORDENADOR: PC4-PC5-PC6-PC7)
     
 
