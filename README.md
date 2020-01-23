@@ -37,7 +37,7 @@ LA PRIMERA RED SERÁ: AREA DE TRABAJO DE DISEÑO DE ROPA
             -IP 192.168.1.100
             -Mascara 255.255.255.0
         
-        EN ESTA RED ACCEDEREMOS AL LINK www.prozissl.com la cual esta asignada en el DNS SERVER
+        EN ESTA RED ACCEDEREMOS AL LINK www.prozissl.com(pagina para diseño de ropa) la cual esta asignada en el DNS SERVER
         (IMPORTANTE: ACCEDER AL LINK DESDE ALGUN ORDENADOR: PCO-PC1-PC2-PC3)
     
 LA SEGUNDA RED SERÁ:AREA DE TRABAJO DE DISEÑO DE DISPOSITIVOS ELECTRÓNICOS
@@ -58,7 +58,7 @@ LA SEGUNDA RED SERÁ:AREA DE TRABAJO DE DISEÑO DE DISPOSITIVOS ELECTRÓNICOS
     Se configura manualmente el servidor DHCP con la dirección 192.168.2.254
     Se asume que el gateway o la puerta de enlace para la red es 192.168.2.254 y que el servidor DNS es 192.168.2.100
     
-     EN ESTA RED ACCEDEREMOS AL LINK 192.168.2.254 la cual esta asignada en el DNS SERVER
+     EN ESTA RED ACCEDEREMOS AL LINK 192.168.2.254(pagina para diseño de dispositivos electronicos) la cual esta asignada en el DNS          SERVER
         (IMPORTANTE: ACCEDER AL LINK DESDE ALGUN ORDENADOR: PC4-PC5-PC6-PC7)
     
 
